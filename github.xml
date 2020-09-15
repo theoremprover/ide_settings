@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9cff030a-e854-43c5-8fa2-9c224ca57eca" name="theoremprover">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

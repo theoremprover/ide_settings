@@ -1,0 +1,35 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+    <option name="JAVADOC_STUB_ON_ENTER" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Groovy" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JAVA" value="false" />
+        <entry key="JSON" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="kotlin" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_INLINE_DIALOG" value="false" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
+</application>

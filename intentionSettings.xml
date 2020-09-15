@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Haskell/Add parens around expression" />
+    <ignoreAction name="Haskell/Remove parens around expression" />
+  </component>
+</application>
