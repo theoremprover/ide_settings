@@ -3,16 +3,5 @@
     <option name="enabledLanguages">
       <set />
     </option>
-    <option name="disabledGrammarStrategies">
-      <set>
-        <option value="tanvd.grazi:Markdown" />
-      </set>
-    </option>
-    <option name="checkingContext">
-      <CheckingContext>
-        <option name="isCheckInCommentsEnabled" value="false" />
-        <option name="isCheckInDocumentationEnabled" value="false" />
-      </CheckingContext>
-    </option>
   </component>
 </application>

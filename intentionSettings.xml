@@ -221,5 +221,9 @@
     <ignoreAction name="Java/Try Statements/Replace catch section with throws declaration" />
     <ignoreAction name="Java/Try Statements/Replace try-with-resources with try-finally" />
     <ignoreAction name="Java/Try Statements/Surround with try-with-resources block" />
+    <ignoreAction name="Java/Annotations/Add Annotation" />
+    <ignoreAction name="Java/Declaration/Create Local Var from instanceof Usage" />
+    <ignoreAction name="Java/JUnit/Convert JUnit3 test case to JUnit4" />
+    <ignoreAction name="Java/Numbers/Underscores in numeric literals" />
   </component>
 </application>
