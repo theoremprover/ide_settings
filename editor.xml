@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
@@ -30,6 +31,11 @@
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
+  </component>
+  <component name="HaskellFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="true" />
+    <option name="COLLAPSE_FILE_HEADER" value="true" />
+    <option name="COLLAPSE_TOP_LEVEL_EXPRESSION" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
