@@ -1,4 +1,9 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
@@ -29,6 +34,7 @@
     </option>
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
