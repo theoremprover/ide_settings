@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="stack" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="stack" />
+      <option name="PARAMETERS" value="exec DtdToHaskell -- tca.dtd Extsubset.hs" />
+      <option name="WORKING_DIRECTORY" value="$Sourcepath$" />
+    </exec>
+  </tool>
+</toolSet>
