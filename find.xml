@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\analyzer\test.c'" />
-    <option name="defaultScopeName" value="File '...\analyzer\test.c'" />
+    <option name="customScope" value="File '...\analyzer\hightecconti\drilldown.c'" />
+    <option name="defaultScopeName" value="File '...\analyzer\hightecconti\drilldown.c'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\analyzer\test.c'" />
+    <option name="SEARCH_SCOPE" value="File '...\analyzer\hightecconti\drilldown.c'" />
   </component>
 </application>
