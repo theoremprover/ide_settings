@@ -16,8 +16,11 @@
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
+    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="EditorSettings">
@@ -34,15 +37,26 @@
     </option>
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="PRESELECT_RENAME" value="false" />
     <option name="SHOW_INLINE_DIALOG" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingEnabled" value="false" />
+  </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>
