@@ -35,6 +35,7 @@
         <entry key="kotlin" value="true" />
       </map>
     </option>
+    <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
